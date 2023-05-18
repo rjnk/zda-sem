@@ -1,0 +1,4 @@
+pandas~=2.0.1
+selenium~=4.9.1
+matplotlib~=3.7.1
+statsmodels~=0.14.0
