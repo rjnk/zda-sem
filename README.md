@@ -52,7 +52,7 @@ Filtry nezachycují soukromé školy, které ukončili svůj provoz. Ty mají n�
 Z grafu je patrné:
 
 - výrazné rozdělení na soukromé a veřejné vysoké školy
-- na soukromé vysoké školy je snažší se dostat, snažší dokončení plyne z jiných grafů
+- na soukromé vysoké školy je snažší se dostat
 - okometrická korelace u veřejných vysokých škol
 - smutné extrémy v podobě jednotek procent absolventů u některých VŠ
 
