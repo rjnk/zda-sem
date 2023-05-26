@@ -89,10 +89,15 @@ Nejedná se podle nich ale o jediný určující faktor a v závěru upozorňuj�
 Další, už méně odborné články, jsou na webu [irozhas.cz](https://www.irozhlas.cz/zpravy-domov/data-univerzity-vysoke-skoly-bakalar-studijni-neuspesnost_1805290616_jab) (2018) a 
 [idnes.cz](https://www.idnes.cz/zpravy/domaci/vysoka-skola-studijni-neuspesnost-ukonceni-studia.A200121_100045_domaci_knn) (2020).
 
+## Reflexe
+Pokud bych dělal projekt znovu, tak bych dělal následující jinak:
+
+1. Nejdříve bych se podíval na názory expertů. Na základě jejich postřehů by šlo definovat více proměných, které průchodnost ovlivňují. Zvýšila by se tak šance na hodnotnější závěr, ze kterého by mohly plynou i zajímavá doporučení pro fakulty s mimořádně nízkou průchodností.  
+(Je samozřejmě otázka, jestli by se daly získat taková data. Abstraktní myšlenky jako konzervativního/moderního pojetí VŠ vzdělání se zjišťují obtížněji než čísla o studentech.)
+2. Ztrávil bych méně času na části vizuální analýzy o průchodnostech ČVUT, která s cílem práce přímo nesouvisí. Jsou sice vděčné jako ukázka spolužákům (ty jo, FIT má průchodnost jen okolo 25% 😳), ale ušetřený čas by se dal lépe využít.  
+Tato práce je v souboru _nefinalni.pbix_ a není úplně vyleštěná.  
+
 ## Závěr
-U bakalářského studia na veřejných vysokých školách skutečně existuje korelace mezi selekcí v přijímacím řízení a procentem úspěšných absolventů. Kauzální vztah ale nebyl prokázán.
+U bakalářského studia na veřejných vysokých školách skutečně existuje korelace mezi selekcí v přijímacím řízení a procentem úspěšných absolventů. Kauzální vztah ale nebyl prokázán, spíše jsou obě veličiny společně závislé na dalších proměnných.
 
 Zkrátka, jako uchazeč můžete očekávat, že když se při přijímačkách zapotíte, tak se vás škola nebude snažit tolik vyhodit.
-
-
-
