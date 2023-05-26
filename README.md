@@ -1,5 +1,7 @@
 # ZDA semestrální práce
-V semestrální práci analyzuji souvislost mezi selekcí v přijímacím řízení a úspěšností bakalářského studia v České republice mezi lety 2003 až 2016.
+V semestrální práci analyzuji souvislost mezi selekcí v přijímacím řízení a úspěšností bakalářského studia v České republice mezi lety 2003 až 2016.  
+
+Potřebné hodonoty jsem dopočítával v Power Query a PowerBi. Python scripty byly použité na scrapování stránek a základní statistickou analýzu.
 
 ## Motivace
 O technických VŠ se mezi lidmi a mými kamarády traduje, že naberou mnoho studentů a pak je během studia vyhází. Naopak sociální vědy, medicína mají údajně málo přijatých a velké procento absolventů.
